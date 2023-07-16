@@ -1,7 +1,8 @@
-
-
+https://media.licdn.com/dms/image/D5616AQGWux4nXFxieA/profile-displaybackgroundimage-shrink_350_1400/0/1673859905924?e=1695254400&v=beta&t=qHJAeh_c8VomsXNQH8bsegc5VBObWtccUFihwDF1NXg
 
 # 💫 About Me:
+A passionate frontend developer from Bangladesh
+
 🔭 I’m currently working on Front-End development<br>🌱 I’m currently learning express js<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: Via LinkedIn
 
 
