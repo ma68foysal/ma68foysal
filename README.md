@@ -7,7 +7,7 @@
 # 💫 About Me:
 A passionate frontend developer from Bangladesh
 
-🔭 I’m currently working on Front-End development<br>🌱 I’m currently learning express js<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: Via LinkedIn
+🔭 I’m currently working on Front-End development<br>🌱 I’m currently learning typescript<br>👯 I’m looking to collaborate on GitHub<br>💬 Ask me about Web Development<br>📫 How to reach me: Via LinkedIn
 
 
 ## 🌐 Socials:
